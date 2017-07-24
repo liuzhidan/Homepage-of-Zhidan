@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Zhidan's Pages
 
 You can use the [editor on GitHub](https://github.com/liuzhidan/liuzhidan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
