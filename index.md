@@ -1,15 +1,15 @@
 
-### Biography
+## Biography
 
 Zhidan Liu is currently an assistant professor in College of Computer Science and Software Engineering, Shenzhen University, China. He received the B.E. degree in Computer Science and Technology from Northeastern University, Shenyang, China in June 2009, and the Ph.D. degree in Computer Science and Technology from Zhejiang University, Hangzhou, China in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, Nanyang Technological University, Singapore, where he worked in the Wireless And Networked Distributed Sensing (WANDS) group with Prof. Mo Li. 
 
-### Research Interests
+## Research Interests
 
 Distributed Sensing and Data Analytics, Mobile Computing, and Urban Computing
 
-### Publications
+## Publications
 
-#### Journal Papers
+### Journal Papers
 
 [TITS] **Zhidan Liu**, Shiqi Jiang, Pengfei Zhou, and Mo Li. "A Participatory Urban Traffic Monitoring System: The Power of Bus Riders", *IEEE Transactions on Intelligent Transportation Systems*, accepted to appear. (Preprint)
 
@@ -21,7 +21,7 @@ Distributed Sensing and Data Analytics, Mobile Computing, and Urban Computing
 
 [IJDSN] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks", *International Journal of Distributed Sensor Networks*, 2013. (PDF)
 
-#### Conference Papers
+### Conference Papers
 
 [MobiHoc'14] **Zhidan Liu**, Zhenjiang Li, Mo Li, Wei Xing, Dongming Lu, "Path Reconstruction in Dynamic Wireless Sensor Networks using Compressive Sensing", In *ACM MobiHoc*, Philadelphia, USA, August 2014. (PDF , Slides)
 
@@ -35,12 +35,12 @@ Distributed Sensing and Data Analytics, Mobile Computing, and Urban Computing
 
 [WiCom'12] **Zhidan Liu**, Wei Xing, Yongchao Wang, Dongming Lu, "Adaptive Data Storage for Querying in Wireless Sensor Networks", In *IEEE WiCom*, Shanghai, China, September 2012. (PDF)
 
-### Professional Services
+## Professional Services
 
 **Reviewer for journals**: IEEE Transactions on Knowledge and Data Engineering (TKDE), IEEE Transactions on Mobile Computing (TMC), IEEE Transactions on Intelligent Transportation Systems (TITS), IEEE Transactions on Parallel and Distributed Systems (TPDS), IEEE/ACM Transactions on Networking (TON), ACM Transactions on Sensor Networks (TOSN), MDPI Sensors, Wiley International Journal of Communication Systems (IJCS)
 
 **Reviewer for conferences**: IEEE INFOCOM (2014/2015/2016), ACM MobiSys (2017), IEEE IoTDI (2016), ACM MobiCom (2015/2016), IEEE ICPP (2015), IEEE ICPADS (2015), IEEE ICNP (2014), IEEE/CIC ICCC (2013)
 
-### Academic Links
+## Academic Links
 
 **Conference information**: Conference search, Conferences statistics, Conference ranking, Top publication, Best paper awards
