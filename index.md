@@ -1,5 +1,5 @@
 
-# Biography
+## Biography
 
 Zhidan Liu is currently an assistant professor in College of Computer Science and Software Engineering, Shenzhen University, China. He received the B.E. degree in Computer Science and Technology from Northeastern University, Shenyang, China in June 2009, and the Ph.D. degree in Computer Science and Technology from Zhejiang University, Hangzhou, China in September 2014. Before joining Shenzhen University, he was a postdoctoral research fellow in the School of Computer Science and Engineering, Nanyang Technological University, Singapore, where he worked in the Wireless And Networked Distributed Sensing (WANDS) Group under Prof. Mo Li. 
 
