@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Zhidan&#39;s Homepage</title>
+    <link>http://liuzhidan.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Zhidan&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Zhidan Liu</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A Participatory Urban Traffic Monitoring System: The Power of Bus Riders</title>
+      <link>http://liuzhidan.github.io/publication/busrider/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuzhidan.github.io/publication/busrider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path Reconstruction in Dynamic Wireless Sensor Networks Using Compressive Sensing</title>
+      <link>http://liuzhidan.github.io/publication/path/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuzhidan.github.io/publication/path/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Road Network Correlation for Traffic Estimation via Compressive Sensing</title>
+      <link>http://liuzhidan.github.io/publication/cstraffic/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuzhidan.github.io/publication/cstraffic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Spatial Clustering in Multihop Wireless Sensor Networks</title>
+      <link>http://liuzhidan.github.io/publication/hsc/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://liuzhidan.github.io/publication/hsc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
